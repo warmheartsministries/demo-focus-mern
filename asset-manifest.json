@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/demo-focus-mern/static/css/main.2bc215a2.css",
+    "main.js": "/demo-focus-mern/static/js/main.537ee1ad.js",
+    "static/media/focus-high-resolution-logo-transparent.webp": "/demo-focus-mern/static/media/focus-high-resolution-logo-transparent.2cb06a45c9c0de76ecab.webp",
+    "static/media/mongodb-icon.svg": "/demo-focus-mern/static/media/mongodb-icon.9d3b10999fb8149aa8e066a55724e7c7.svg",
+    "static/media/nodejs.svg": "/demo-focus-mern/static/media/nodejs.679e00d3f1224b41a5c85aca9765b898.svg",
+    "static/media/react.svg": "/demo-focus-mern/static/media/react.0cc978f43ea437de003e85712225e83b.svg",
+    "static/media/express-original.svg": "/demo-focus-mern/static/media/express-original.f44799058ef37b8d72355b15425f9490.svg",
+    "index.html": "/demo-focus-mern/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.2bc215a2.css",
+    "static/js/main.537ee1ad.js"
+  ]
+}
